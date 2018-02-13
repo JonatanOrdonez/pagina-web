@@ -1,0 +1,74 @@
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 100%;
+    width: 100%;
+}
+
+.aboutMe {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-lg-4 {
+    text-align: center;
+}
+
+.col-lg-2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fontLobster {
+    font-family: 'Paytone One', sans-serif;
+}
+
+.fontPacifico {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 30px;
+}
+
+.fontShadows {
+    font-family: 'Kreon', serif;
+}
+
+.fontKalam {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.seccionAcademica {
+    background: #FFF851;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.letraGrande {
+    font-size: 30px;
+}
+
+.espaciado {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.profesional {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bajarUnPoco {
+    padding-top: 30px;
+}
+
+.copyright { 
+    background-color:#000000;
+    height: 20%;
+}
+
+.copyright p { 
+    text-align:left; 
+    color:#FFF; 
+    padding:10px 0; 
+    margin-bottom:0px;
+}
