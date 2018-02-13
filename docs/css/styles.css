@@ -38,7 +38,7 @@ h1 {
 }
 
 .seccionAcademica {
-    background: #FFF851;
+    background: #91B2CC;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -58,7 +58,15 @@ h1 {
 }
 
 .bajarUnPoco {
-    padding-top: 30px;
+    padding-top: 65px;
+}
+
+.toolsC {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #91B2CC;
 }
 
 .copyright { 
@@ -71,4 +79,8 @@ h1 {
     color:#FFF; 
     padding:10px 0; 
     margin-bottom:0px;
+}
+
+.alinearCentro {
+    text-align: center;
 }
